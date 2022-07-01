@@ -31,7 +31,7 @@
 		
 		<link rel="stylesheet" href="css/estilo.css">
 
-        <title>Relógio Digital - By Jefferson Eva</title>
+        <title>Interruptor - By Jefferson Eva</title>
         
     </head>
 
